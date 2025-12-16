@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Camera body -->
+  <rect x="1" y="4" width="14" height="10" rx="1.5" fill="#4a5568"/>
+  <!-- Camera lens mount -->
+  <circle cx="8" cy="9" r="4" fill="#2d3748"/>
+  <!-- Camera lens -->
+  <circle cx="8" cy="9" r="2.5" fill="#63b3ed"/>
+  <!-- Camera flash -->
+  <rect x="11" y="5" width="2.5" height="1.5" rx="0.5" fill="#ecc94b"/>
+  <!-- Camera viewfinder bump -->
+  <path d="M5 4 L5 2.5 A0.5 0.5 0 0 1 5.5 2 L10.5 2 A0.5 0.5 0 0 1 11 2.5 L11 4" fill="#4a5568"/>
+  <!-- Number 5 badge -->
+  <circle cx="13" cy="4" r="3" fill="#e53e3e"/>
+  <text x="13" y="5.5" font-family="Arial, sans-serif" font-size="5" font-weight="bold" fill="white" text-anchor="middle">5</text>
+</svg>
+
